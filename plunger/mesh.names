@@ -1,0 +1,11 @@
+! ----- names for bodies -----
+$ coil = 1
+$ plunger = 2
+$ body = 3
+$ air = 4
+! ----- names for boundaries -----
+$ outer = 1
+$ airsym = 2
+$ psym = 3
+$ psurface = 4
+$ bnry9 = 5
